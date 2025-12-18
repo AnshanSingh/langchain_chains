@@ -1,0 +1,15 @@
+
+flask==3.0.0
+python-dotenv==1.0.1
+requests==2.31.0
+mysql-connector-python==8.3.0
+
+langchain
+langchain-openai
+langchain-huggingface
+huggingface-hub
+langchain-anthropic
+langchain-google-genai
+
+huggingface-hub
+transformers
